@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin exposes the SnakeYAML Engine library to other Jenkins plugins.
+</div>
